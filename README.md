@@ -1,4 +1,4 @@
-# the Basilisk
+# Basilisk
 
 ![finished basilisk keyboard picture](/images/finished3.jpeg)
 
